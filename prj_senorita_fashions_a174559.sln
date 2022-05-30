@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_senorita_fashions_a174559", "prj_senorita_fashions_a174559\prj_senorita_fashions_a174559.vbproj", "{501A2D87-8A38-47F0-941D-1EAAC3992820}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "A174559_SENORITA_FASHIONS", "A174559_SENORITA_FASHIONS.vdproj", "{14C77A2E-3E3E-49A1-851C-BDD08454156A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501A2D87-8A38-47F0-941D-1EAAC3992820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501A2D87-8A38-47F0-941D-1EAAC3992820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501A2D87-8A38-47F0-941D-1EAAC3992820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501A2D87-8A38-47F0-941D-1EAAC3992820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C77A2E-3E3E-49A1-851C-BDD08454156A}.Debug|Any CPU.ActiveCfg = Debug
+		{14C77A2E-3E3E-49A1-851C-BDD08454156A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4E282E-A9E7-4911-98F0-1FE4B13FEB78}
+	EndGlobalSection
+EndGlobal
